@@ -13,8 +13,7 @@ Como developer, tengo experiencia en las siguientes tecnologías:
 - 🎨 CSS, Boostrap, Figma y taildwild
 - 🚀 JavaScript, TypeScript, Java y C# 
 - 💻 .Net,React y Angular
-- 💹 Node.js y .Net Core
-- 🤖 Express, MongoDB, MySQL y Node js 
+- 🤖 Express, MongoDB, MySQL, .Net Core y Node js 
 - 💾 Docker, Sonarqube y Portainer
 
 <hr>
