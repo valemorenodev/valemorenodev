@@ -31,7 +31,8 @@ Si deseas conocer más sobre mi trabajo, puedes visitar <a href="https://valen-m
 
 Tambien puedes ponerte en contacto conmigo: <br>
 
-- 💼 <a href="https://www.linkedin.com/in/diana-valentina-moreno/" target="_blank"LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/diana-valentina-moreno/" target="_blank">LinkedIn</a>
+- 💜 <a href="https://valen-moreno-dev.vercel.app/#Contact" target="_blank">Email</a>
 
 <hr>
 
