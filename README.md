@@ -38,7 +38,8 @@ Tambien puedes ponerte en contacto conmigo: <br>
 ## Mi portafolio
 
 Además de mi perfil de GitHub, también puedes ver más de mi trabajo en mi portafolio en línea en el siguiente enlace: <br> 
-<a href="https://daniel-veloza-portafolio.netlify.app/" target="_blank">https://daniel-veloza-portafolio.netlify.app/</a>
+
+- 💜 <a href="https://valen-moreno-dev.vercel.app/" target="_blank">https://valen-moreno-dev.vercel.app/</a>
 
 <hr>
 
